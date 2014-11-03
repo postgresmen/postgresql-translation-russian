@@ -22,11 +22,9 @@
 Производительность
 -----------
 
-Версия 9.4 также содержит множественные улучшения, позволяющие добиться большей производительности каждого сервера PostgreSQL. Они включают в себя:
-Version 9.4 also introduces multiple performance improvements which will allow users to get even more out of each PostgreSQL server.  These include:
+Версия 9.4 также содержит ряд улучшений производительности, позволяющих пользователям получить ещё больше от каждого из своих PostgreSQL-серверов. Среди таких новинок:
 
-* уменьшение размера индексов GIN на 50% и их ускорение в три раза;
-* Improvements to GIN indexes, making them up to 50% smaller and up to 3X faster.
+* улучшения GIN-индексов, делающие их 50% меньше и в 3 раза быстрее;
 * материализованные представления с параллельными обновлениями для создания быстрых и своевременных отчетов;
 * Concurrently updatable Materialized Views for faster, more up-to-date reporting.
 * возможность ускоренной загрузки данных в кэш СУБД после перезагрузки, предоставляемая расширением pg_prewarm;
