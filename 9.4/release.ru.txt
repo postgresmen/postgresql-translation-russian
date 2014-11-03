@@ -6,8 +6,11 @@
 Гибкость
 -----------
 
-С новым типом данных JSONB пользователям больше не придется выбирать между реляционными и нереляционными хранилищами данных: PostgreSQL дает возможность воспользоваться преимуществами обоих. JSONB поддерживает быстрый поиск и выразительные поисковые запросы на базе обобщенных обратных индексов (GIN). Многочисленные вспомогательные функции получения и манипулирования данных JSON достигают равной или более высокой производительности по сравнению с популярными документно-ориентированными СУБД. JSONB позволяет объединить данные в таблицах БД и документах в единую среду хранения данных.
-With the new JSONB data type for PostgreSQL, users no longer have to choose between relational and non-relational data stores: they can have both at the same time.  JSONB supports fast lookups and simple expression search queries using Generalized Inverted Indexes (GIN).  Multiple new support functions enable users to extract and manipulate JSON data, with a performance which matches or surpasses the most popular document databases.  With JSONB, table data can be easily integrated with document data for a fully integrated database environment.
+
+Благодаря новому типу данных JSONB, пользователи более не обязаны выбирать между реляционными и нереляционными хранилищами данных: теперь можно одновременно пользоваться и тем, и другим. 
+Для JSONB реализована поддержка быстрой выборки и простых поисковых выражений на базе GIN-индексов (обобщённых инвертированных индексов). 
+Ряд новых вспомогательных функций позволяет пользователям извлекать JSON-данные и далее манипулировать ими так же быстро (а иногда и быстрее), как это можно делать в популярных документно-ориентированных базах данных.
+JSONB позволяет с лёгкостью интегрировать документные и табличные данные в контексте одной базы данных.
 
 "JSONB сближает PostgreSQL и сообщество разработчиков Javascript, позволяя хранить и запрашивать данные JSON с помощью встроенных средств СУБД. Node.js и другие инфраструктуры разработки приложений смогут работать с такой безопасной и отказоустойчивой СУБД как PostgreSQL, не жертвуя своей бессхемной моделью хранения данных", -— говорит Мэтт Солдо (Matt Soldo), менеджер по продукту в проекте Heroku Postgres.
 "JSONB brings PostgreSQL to the JavaScript development community by allowing JSON data to be stored and queried natively. Node.js and other server-side JavaScript frameworks can benefit from the safety and robustness of PostgreSQL, while still storing data in the schema-less format that they prefer," said Matt Soldo, Product Manager, Heroku Postgres.
