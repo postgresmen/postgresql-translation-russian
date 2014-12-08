@@ -34,17 +34,11 @@
 Ссылки
 -----
 * Страница загрузки: http://www.postgresql.org/downloads
-* Downloads: http://www.postgresql.org/downloads
 * Материалы для прессы: http://www.postgresql.org/about/press/presskit94
-* Press Kit: http://www.postgresql.org/about/press/presskit94
 * Информация об изменениях: http://www.postgresql.org/documentation/current/static/release-9-4
-* Release Notes: http://www.postgresql.org/documentation/current/static/release-9-4
 * Обзор новых возможностей версии 9.4 (англ.): https://wiki.postgresql.org/wiki/What%27s_new_in_PostgreSQL_9.4
-* What's New in 9.4: https://wiki.postgresql.org/wiki/What%27s_new_in_PostgreSQL_9.4
 
 О проекте PostgreSQL
-About PostgreSQL
 ----------------
-О PostgreSQL: PostgreSQL является ведущей СУБД с открытыми исходными текстами, с глобальным сообществом из тысяч пользователей и разработчиков, объединяющим множество компаний и организаций. Проект PostgreSQL создается на основе более чем 25-летнего опыта проектирования и разработки, начавшейся в Калифорнийском университете Беркли, и в настоящее время разрабатывается беспрецедентными темпами. Продуманный набор возможностей PostgreSQL не только не уступает ведущим коммерческим СУБД, но и превосходит их развитой функциональностью, расширяемостью, безопасностью и стабильностью. Вы можете получить дополнительную информацию о PostgreSQL и присоединиться к нашему сообществу по адресу http://www.postgresql.org.
-PostgreSQL is the leading open source database system, with a global community of thousands of users and contributors and dozens of companies and organizations.  The PostgreSQL Project builds on over 25 years of engineering, starting at the University of California, Berkeley, and has an unmatched pace of development today. PostgreSQL's mature feature set not only matches top proprietary database systems, but exceeds them in advanced database features, extensibility, security and stability.  Learn more about PostgreSQL and participate in our community at: http://www.postgresql.org.
+О PostgreSQL: PostgreSQL является ведущей СУБД с открытыми исходными текстами, с глобальным сообществом из тысяч пользователей и разработчиков, объединяющим множество компаний и организаций. Проект PostgreSQL создаётся на основе более чем 25-летнего опыта проектирования и разработки, начавшейся в Калифорнийском университете Беркли, и в настоящее время разрабатывается беспрецедентными темпами. Продуманный набор возможностей PostgreSQL не только не уступает ведущим коммерческим СУБД, но и превосходит их развитой функциональностью, расширяемостью, безопасностью и стабильностью. Вы можете получить дополнительную информацию о PostgreSQL и присоединиться к нашему сообществу по адресу http://www.postgresql.org.
 
